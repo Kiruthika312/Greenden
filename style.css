@@ -1,0 +1,212 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.greenheader{
+    background-color: aquamarine;
+}
+.header{
+    background-color: aquamarine;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.imgage{
+    float: right;
+     margin-right: 50px; 
+        
+    
+}
+.hcontainer{
+    display: flex;
+    justify-content: space-around;
+    width: 30%;
+    padding: 7px;
+    color: rgb(3, 3, 3);
+
+}
+.pbox:hover{
+    color: white;
+    border-bottom: 2px solid white;
+}
+.headcontainer{
+    margin-left: 30px;
+    padding: 40px;
+}
+
+.hbox{
+    font-size: 50px;
+    padding-top: 30px;
+}
+.bcontainer{
+    display: flex;
+    padding-top: 10px;
+    
+}
+.button{
+    background-color: black;
+    color: white;
+    margin: 2px;
+    width: 150px;
+    padding: 10px;
+    text-align: center;
+}
+
+.para{
+    color: grey;
+    padding-top: 20px;
+}
+.about{
+    padding: 10px;
+}
+
+.heading{
+    text-align: center;
+}
+.aboutcontainer{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+
+}
+.box{
+    border: solid black 1px;
+    width: 270px;
+    text-align: center;
+    padding:20px;
+    
+}
+i,h4,p{
+    padding: 10px;
+}
+i{
+    font-size: 40px;
+}
+.ph{
+    text-align: center;
+    padding: 30px;
+    
+}
+.ppbox1{
+    text-align: center;
+    width: 270px;
+    position: relative;
+    bottom: 40px;
+}
+.ppbox2{
+    text-align: center;
+    width: 270px;
+    position: relative;
+    top: 30px;
+    
+}
+.prod{
+    background-color: aquamarine;
+    padding: 10px;
+}
+.pcontainer{
+    display: flex;
+    justify-content: space-around;
+    height: 400px;
+    
+}
+.sec{
+    text-align: center;
+    padding: 10px;
+}
+.bestsection{
+    padding: 10px;
+}
+.bscontain{
+    display: flex;
+    justify-content: space-around;
+}
+.bsbox{
+    text-align: center;
+}
+
+.bsbox:hover{
+    transform: scale(1.1);
+    transition-duration: 2s;
+}
+
+.hhead{
+    padding: 30px;
+
+}
+.review{
+    background-color: aquamarine;
+    height: 450px;
+    position: relative;
+    margin-left: 30px;
+    top: 50px;
+}
+.rbox{
+    float: left;
+    position: relative;
+    bottom: 40px;
+    right: 20px;
+    right: 50px;
+    
+}
+.rc{
+    padding: 80px;
+    left: 30px;
+}
+
+.letcontainer{
+    text-align: center;
+    padding: 30px;
+    margin-top: 60px;
+    
+}
+.slbox{
+    display: flex;
+    justify-content: center;
+}
+.sletbox{
+     background-color: black;
+    color: white;
+    width: 130px;
+    padding: 10px;
+    margin-top: 4px;
+    
+}
+.scontain{
+    display: flex;
+    justify-content: center;
+    margin: 4px;
+}
+.seat{
+    border: solid black 1px;
+    background-color: white;
+    color: white;
+    width: 900px;
+    padding: 10px;
+}
+
+.icon{
+    display: flex;
+    gap: 7px;
+}
+.ffoot{
+    color: grey;
+    margin-left: 30px;
+    bottom: 0px;
+    
+}
+.ff{
+    padding: 30px;
+   
+}
+
+.footer{
+    background-color: aquamarine;
+    height: 200px;
+    top: 60px;
+   
+}
+
